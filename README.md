@@ -1,6 +1,8 @@
 # CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
-## klh0598
+Assignment repository for UNT CSCE 1015
+## EUID
+KLH0598
 
 ## Favorite Linux Command
-$YOUR_FAVORITE_LINUX-COMMAND
+cin
+
